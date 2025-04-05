@@ -1,15 +1,35 @@
 ---
 permalink: /
-title: "Welcome to my personal Page!"
+title: "About me..."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+👋 Hi! I'm an Astronomer working at the [Institute for Cosmology and Gravitation](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/james-trayford), at the [University of Portsmouth](https://www.port.ac.uk/).
 
-# 🚧 Under Construction 🚧
-{: .notice}
+✨🌀 I study galaxy formation and cosmology, particularly bridging the worlds of observation and theory, developing and modelling the [EAGLE simulations](https://virgo.dur.ac.uk/2014/11/11/EAGLE/) and its virtual data. Since then, I've been working on the upcoming [COLIBRE project](https://www.universiteitleiden.nl/en/news/2024/03/new-generation-galaxy-formation-simulations-on-the-horizon---evgenii-chaikin-received-his-doctorate-with-honours), a new generation of multiphase, cosmological simulations. 
+
+🔭🎶 I'm driven to investigate new ways to interact with the data that drives our world. In particular, I have worked extensively on _"sonification"_ (the use of non-verbal sound to convey data), winning an [_UKRI Early Stage Research and Development Award_](https://gtr.ukri.org/projects?ref=ST%2FX004651%2F1), to lead a team developing and applying my `strauss` code.
+
+<!-- [`strauss`]() is intended as a flexible, FOSS Pyhon package, to empower users to create sonification themselves. The `strauss` code underpins our [_Audio Universe_](https://www.audiouniverse.org/) collaboration; an international, interdisciplinary group interested in sonification for STEM and society more broadly.  -->
+
+📢🦮 I'm also passionate about science communication and inclusivity. Projects like our multilingual [Audio Universe: Tour of the Solar System](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system) planetarium show and its [caribbean cultural adaptation](https://www.port.ac.uk/news-events-and-blogs/news/caribbean-beat-brings-the-universe-to-life#:~:text='Caribbean%20Audio%20Universe%3A%20Tour%20of,by%20a%20local%20voice%20actor) bring astronomy to BVI audiences with sonification.  Along with immersive technology and multisensory exhibits, we aim reach and engage everyone.
+
+🌊⚽  Outside research, find me playing football, going for a run, playing music with friends or bobbing around in the Solent...
+
+<!-- , we worked with blind and visually impaired audiences to develop a unique, fully sonified planetarium show for kids, that has been translated and played in planetaria across the globe. Most recently, we worked with Caribbean scientists and musicians to adapt our show for a .  -->
+
+<!-- and that everyone deserves to experience our understanding of the cosmos. Projects like our [Audio Universe: Tour of the Solar System](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system) planetarium show we worked with blind and visually impaired kids to develop a unique fully-sonified planetarium show, using sound to convey the physics of our own stellar system  I've worked to develop multimodal and multi-sensory outreach exhibits. -->
+
+## More Links!
+
+1. [STRAUSS on _GitHub_](https://github.com/james-trayford/strauss)
+2. [STRAUSS on RTD](https://strauss.readthedocs.io/en/latest/) 
+3. [STFC article on our sonification project](https://medium.com/big-science-at-stfc/the-sound-of-silence-how-sound-brings-space-to-life-df0cc00ab9c3)
+4. [Follow _Audio Universe_ on YouTube!](https://www.youtube.com/@audiouniverse8137)
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
