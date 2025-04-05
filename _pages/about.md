@@ -15,7 +15,7 @@ redirect_from:
 
 <!-- [`strauss`]() is intended as a flexible, FOSS Pyhon package, to empower users to create sonification themselves. The `strauss` code underpins our [_Audio Universe_](https://www.audiouniverse.org/) collaboration; an international, interdisciplinary group interested in sonification for STEM and society more broadly.  -->
 
-📢🦮 I'm also passionate about science communication and inclusivity. Projects like our multilingual [Audio Universe: Tour of the Solar System](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system) planetarium show and its [caribbean cultural adaptation](https://www.port.ac.uk/news-events-and-blogs/news/caribbean-beat-brings-the-universe-to-life#:~:text='Caribbean%20Audio%20Universe%3A%20Tour%20of,by%20a%20local%20voice%20actor) bring astronomy to BVI audiences with sonification.  Along with immersive technology and multisensory exhibits, we aim reach and engage everyone.
+📢🦮 I'm also passionate about science communication and inclusivity. Projects like our multilingual [Audio Universe: Tour of the Solar System](https://www.audiouniverse.org/education/shows/tour-of-the-solar-system) planetarium show and its [caribbean cultural adaptation](https://www.port.ac.uk/news-events-and-blogs/news/caribbean-beat-brings-the-universe-to-life#:~:text='Caribbean%20Audio%20Universe%3A%20Tour%20of,by%20a%20local%20voice%20actor) bring astronomy to BVI audiences with sonification.  Along with immersive technology and multisensory exhibits, we aim to reach and engage everyone.
 
 🌊⚽  Outside research, find me playing football, going for a run, playing music with friends or bobbing around in the Solent...
 
